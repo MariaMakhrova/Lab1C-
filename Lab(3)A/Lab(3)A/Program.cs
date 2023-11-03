@@ -5,15 +5,16 @@ class Program
 {
 	static void Main()
 	{
-		// Створення XML-файлу
+		// Створюємо XML-файл
 		XmlDocument xmlDoc = new XmlDocument();
 
 		XmlElement root = xmlDoc.CreateElement("Zavod");
 		xmlDoc.AppendChild(root);
 
+		// Додаємо працівників
 		AddEmployee(xmlDoc, root, "Прізвище1", 1, "Посада1", 5, 5000);
 		AddEmployee(xmlDoc, root, "Прізвище2", 2, "Посада2", 8, 7000);
-		// Додайте інші працівників за аналогією
+		
 
 		// Збереження XML-файлу
 		xmlDoc.Save("Zavod.xml");
