@@ -29,7 +29,7 @@ class Program
 			{
 				new Employee { LastName = "Прізвище1", DepartmentNumber = 1, Position = "Посада1", Experience = 5, Salary = 5000 },
 				new Employee { LastName = "Прізвище2", DepartmentNumber = 2, Position = "Посада2", Experience = 8, Salary = 7000 }
-                // Додайте інші працівників за аналогією
+             
             }
 		};
 
