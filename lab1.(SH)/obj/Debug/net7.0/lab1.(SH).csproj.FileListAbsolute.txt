@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\bin\Debug\net7.0\lab1.(SH).exe
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\bin\Debug\net7.0\lab1.(SH).deps.json
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\bin\Debug\net7.0\lab1.(SH).runtimeconfig.json
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\bin\Debug\net7.0\lab1.(SH).dll
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\bin\Debug\net7.0\lab1.(SH).pdb
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\obj\Debug\net7.0\lab1.(SH).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\obj\Debug\net7.0\lab1.(SH).AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\obj\Debug\net7.0\lab1.(SH).AssemblyInfo.cs
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\obj\Debug\net7.0\lab1.(SH).csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\obj\Debug\net7.0\lab1.(SH).dll
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\obj\Debug\net7.0\refint\lab1.(SH).dll
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\obj\Debug\net7.0\lab1.(SH).pdb
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\obj\Debug\net7.0\lab1.(SH).genruntimeconfig.cache
+C:\Users\Admin\source\repos\lab1.(SH)\lab1.(SH)\obj\Debug\net7.0\ref\lab1.(SH).dll
